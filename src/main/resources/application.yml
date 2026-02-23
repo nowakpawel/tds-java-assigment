@@ -1,0 +1,2 @@
+spring.application.name=car-parking
+springdoc.swagger-ui.path=/swagger
